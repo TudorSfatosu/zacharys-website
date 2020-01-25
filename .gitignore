@@ -1,0 +1,12 @@
+/.vs
+
+/Zacharys
+/bin
+
+/Zacharys
+/App_Data
+
+/obj
+/Zacharys/Web.config
+/Zacharys/Web.Debug.config
+/Zacharys/Web.Release.config
